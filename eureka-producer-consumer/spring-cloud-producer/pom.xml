@@ -8,14 +8,13 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-producer</name>
+	<name>eureka-producer-consumer:spring-cloud-producer</name>
 	<description>Demo project for Spring cloud producer</description>
 
 	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.3.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<groupId>com.neo</groupId>
+		<artifactId>eureka-producer-consumer</artifactId>
+		<version>1.0.0.SNAPSHOT</version>
 	</parent>
 
 	<properties>
