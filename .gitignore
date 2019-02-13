@@ -21,6 +21,7 @@ logs
 .idea/
 ##
 *.iml
+*\.iml
 /bin/*
 
 Servers
