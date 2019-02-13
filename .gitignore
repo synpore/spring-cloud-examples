@@ -1,0 +1,35 @@
+*.class
+
+*\.settings
+*\.project
+*\.classpath
+*\target
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.project
+.settings
+.classpath
+target
+
+# logs #
+logs
+# idea #
+.idea
+.idea/
+##
+*.iml
+/bin/*
+
+Servers
+.metadata
+grunt
+npm-debug.log
+
+#Mac os generated files
+.DS_Store
+.DS_Store?
+
+
